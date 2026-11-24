@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Dependencies-Zero-1e293b?style=flat-square&color=a78bfa" alt="Zero Dependencies"/>
   <img src="https://img.shields.io/badge/Telemetry-None-1e293b?style=flat-square&color=34d399" alt="Zero Telemetry"/>
   <img src="https://img.shields.io/badge/License-MIT-1e293b?style=flat-square&color=fbbf24" alt="MIT License"/>
+  <a href="https://linux.do"><img src="https://img.shields.io/badge/Community-LINUX%20DO-1C1C1E?style=flat-square&logo=linux&logoColor=38BDF8" alt="LINUX DO Community"/></a>
 </p>
 
 ---
